@@ -1,10 +1,10 @@
-{
-  "name": "sarahlim.github.io",
+
+  "name": "jayaherkar.github.io",
   "version": "2.0.0",
-  "description": "personal website for Sarah Lim",
+  "description": "personal website for Jay Aherkar",
   "main": "index.js",
-  "repository": "https://github.com/sarahlim/sarahlim.github.io",
-  "author": "Sarah Lim <sarah@sarahlim.com>",
+  "repository": "https://github.com/jayaherkar/jayaherkar.github.io",
+  "author": "Jay Ahekrar<jayaherkar@icloud.com>",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.18.12",
